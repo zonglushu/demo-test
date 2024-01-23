@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T05:11:31.626Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.21" etag="Mxk_KeR3px6mBZiVDqKz" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T05:22:10.387Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="bPrLSRzPno50FsG8hCVq" version="22.1.21" type="github">
   <diagram name="第 1 页" id="hfbZG1-WNORQKVPhbsPz">
-    <mxGraphModel>
+    <mxGraphModel dx="1224" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SfBm7KMstHFxfHhhFLvo-2" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f2f2f3;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="150" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="SfBm7KMstHFxfHhhFLvo-3" value="&lt;b&gt;input&lt;br&gt;Embedding&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fadfe0;" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="460" width="125" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
